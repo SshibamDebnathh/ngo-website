@@ -21,7 +21,7 @@ export default function VolunteerForm() {
     <section id="volunteer" className="flex flex-col md:flex-row w-full h-screen">
       
       
-      <div className="w-full md:w-1/2 relative h-64 md:h-auto">
+      <div className="w-full md:w-1/2 relative h-28 md:h-auto">
         <img
           src="https://images.pexels.com/photos/6348129/pexels-photo-6348129.jpeg"
           alt="Volunteer"
